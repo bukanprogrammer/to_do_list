@@ -132,7 +132,7 @@
 		
 		<div class="to-do-list">
 
-			<h1>To Do List</h1>
+			<h1>To Do List with PHP</h1>
 
 			<form action="index.php" method="_POST">
 
